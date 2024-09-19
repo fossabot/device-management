@@ -26,6 +26,12 @@ iOS 17 supported multiple private network payloads, but the `multiple` key was s
 
 iOS 17 also mistakenly forbade multiple private network payloads in a single profile.
 
+### mdm/checkin/authenticate.yaml
+
+Starting in iOS 13 and macOS 10.15 UDID is optional because User Enrollments do not return UUIDs.
+
+Starting is iOS 13 and macOS 10.15 Enrollment ID is optional because Device Enrollments only return UUIDs.
+
 ## iOS 17 / macOS 14
 
 ### mdm/profiles/com.apple.education.yaml

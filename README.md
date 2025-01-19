@@ -1,4 +1,6 @@
 # Device Management Client Schema
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fdevice-management.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fdevice-management?ref=badge_shield)
+
 
 This repository contains Apple's Device Management Client schema data for the MDM (Mobile Device Management) protocol, and the Declarative Device Management feature.
 
@@ -44,3 +46,7 @@ See [YAML Schema](docs/schema.md).
 All feedback on the data in this repository should be made using the `Feedback Assistant` app or website (https://feedbackassistant.apple.com). Select feedback for `Enterprise & Education`, and choose the `Mobile Device Management (MDM)` area.
 
 We will NOT be accepting pull requests on this repository - please use `Feedback Assistant` for all requests.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fdevice-management.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fdevice-management?ref=badge_large)
